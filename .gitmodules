@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "nn2poly"]
+	path = nn2poly
+	url = https://github.com/ibidat/nn2poly
